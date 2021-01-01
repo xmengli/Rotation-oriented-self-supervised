@@ -7,7 +7,7 @@ Pytorch implementation
 
 ## Installation
 
-* Install Python 3.7.4, Pytorch 1.1.0, torchvision 0.3.0 and CUDA 9.0
+* Install Python 3.7.4, Pytorch 1.1.0, torchvision 0.3.0 and CUDA 8.0
 * Or Check requirements.txt
 * Clone this repo
 ```
