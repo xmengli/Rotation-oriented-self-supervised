@@ -1,4 +1,4 @@
-## TMI20: Self-supervised Feature Learning via Exploiting Multi-modal Data for Retinal Disease Diagnosis
+## Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
 
 Pytorch implementation 
 
@@ -11,13 +11,12 @@ Pytorch implementation
 * Or Check requirements.txt
 * Clone this repo
 ```
-git clone https://github.com/xmengli999/self_supervised
+git clone https://github.com/xmengli999/Rotation-oriented-self-supervised
 cd self_supervised
 ```
 
 ## Data Preparation
 * Download [Ichallenge-AMD dataset](https://drive.google.com/file/d/1ti0ozvMHCnq-PCX_CVc-Da98uJNmla8T/view?usp=sharing), 
-[synthesized FFA](https://drive.google.com/file/d/1Q0u3XZ-cL2BcIA1mp2sl3Rep7vE3avNo/view?usp=sharing) and 
 [file_index](https://drive.google.com/file/d/1ts-Y8ePh_K_ijmBK8v3OfMIOhKMw-PSj/view?usp=sharing) <br/>
 * Put them under `./data/`
 
