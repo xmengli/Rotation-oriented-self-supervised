@@ -12,7 +12,7 @@ Pytorch implementation
 * Clone this repo
 ```
 git clone https://github.com/xmengli999/Rotation-oriented-self-supervised
-cd self_supervised
+cd Rotation-oriented-self-supervised
 ```
 
 ## Data Preparation
