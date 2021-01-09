@@ -22,14 +22,14 @@ cd Rotation-oriented-self-supervised
 
 
 ## Evaluate 
-* Download [our models](https://pan.baidu.com/s/1B6JK5ljhWz0V655obtX3og), password: gja3, and put it under `./savedmodels/`
+* Download [our models](https://pan.baidu.com/s/1NJdgbi7d3MiC7PATY6wKjA), password: h7z6, and put it under `./savedmodels/`
 * cd `scripts`
 * Run `sh evaluate_fold.sh` to start the evaluation process
 * 5-fold cross-validation results: 
 
 | AUC    | Accuracy   | Precision    |
 | ---------- | :-----------:  | :-----------: |
-| 74.58%    | 86.58%   | 83.2%     |
+| 75.64%    | 87.09%   | 83.96%     |
 
 ## Train 
 * cd `scripts`
