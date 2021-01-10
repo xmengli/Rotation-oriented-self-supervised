@@ -20,6 +20,7 @@ cd Rotation-oriented-self-supervised
 [file_index](https://drive.google.com/file/d/1ts-Y8ePh_K_ijmBK8v3OfMIOhKMw-PSj/view?usp=sharing) <br/>
 * Put them under `./data/`
 * The folder should be 
+
 `./data/Training400/resized_image_320/XXX.jpg` 
 
 `./data/random_list.txt`
