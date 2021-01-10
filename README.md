@@ -23,7 +23,7 @@ cd Rotation-oriented-self-supervised
 
 `./data/Training400/resized_image_320/XXX.jpg` 
 
-`./data/random_list.txt`
+`./data/Training400/random_list.txt`
 
 
 ## Evaluate 
