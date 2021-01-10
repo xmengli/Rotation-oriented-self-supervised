@@ -22,20 +22,26 @@ cd Rotation-oriented-self-supervised
 
 
 ## Evaluate 
-* Download [our models](https://pan.baidu.com/s/1NJdgbi7d3MiC7PATY6wKjA), password: h7z6, and put it under `./savedmodels/`
+* Download [our models](https://pan.baidu.com/s/1NJdgbi7d3MiC7PATY6wKjA), password: h7z6, and put it under `./savemodels/`
 * cd `scripts`
-* Run `sh evaluate_fold.sh` to start the evaluation process
-* 5-fold cross-validation results: 
+* Run scripts in `eval_fold.sh` to start the evaluation process
+* 5-fold cross-validation results (Table I in the paper): 
 
 | AUC    | Accuracy   | Precision    |
 | ---------- | :-----------:  | :-----------: |
 | 75.64%    | 87.09%   | 83.96%     |
 
+
+* Download [our models](https://pan.baidu.com/s/10H09TiDgy5LgkHiYkaTp3A), password: 2juk, and put it under `./savemodels/`
+* train on DR, test on AMD (Table II in the paper)  -- evaluate this model needs Pytorch 1.6.0: 
+| AUC    | Accuracy   | Precision    |
+| ---------- | :-----------:  | :-----------: |
+| 78.11%    | 87.85%   | 85.58%     |
+
 ## Train 
 * cd `scripts`
-* Run `sh train_fold.sh` to start the training process
-* See `train_ablation.sh` for ablation study
-* See `supervised_fundus.py` for supervised baselines
+* Check scripts in `train_fold.sh` to start the training process
+* Check `supervised.sh` for supervised baselines
 
 ## Note
 * Contact: Xiaomeng Li (xmengli999@gmail.com)
