@@ -33,8 +33,8 @@ cd Rotation-oriented-self-supervised
 
 
 * Download [our models](https://pan.baidu.com/s/10H09TiDgy5LgkHiYkaTp3A), password: 2juk, and put it under `./savemodels/`
-* train on DR, test on AMD (Table II in the paper)  -- evaluate this model needs Pytorch 1.6.0:
- 
+* train on DR, test on AMD (Table II in the paper)  -- this step requires Pytorch 1.6.0:
+
 | AUC    | Accuracy   | Precision    |
 | ---------- | :-----------:  | :-----------: |
 | 78.11%    | 87.85%   | 85.58%     |
