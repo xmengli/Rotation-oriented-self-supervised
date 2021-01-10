@@ -42,7 +42,6 @@ cd Rotation-oriented-self-supervised
 ## Train 
 * cd `scripts`
 * Check scripts in `train_fold.sh` to start the training process
-* Check `supervised.sh` for supervised baselines
 
 ## Note
 * Contact: Xiaomeng Li (xmengli999@gmail.com)
