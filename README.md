@@ -49,4 +49,4 @@ cd Rotation-oriented-self-supervised
 * Check scripts in `train_fold.sh` to start the training process
 
 ## Note
-* Contact: Xiaomeng Li (xmengli999@gmail.com)
+* Contact: Xiaomeng Li (eexmli@ust.hk)
