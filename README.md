@@ -1,4 +1,4 @@
-## Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
+## IEEE TMI21: Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis
 
 Pytorch implementation 
 
