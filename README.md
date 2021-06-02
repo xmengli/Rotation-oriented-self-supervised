@@ -48,5 +48,23 @@ cd Rotation-oriented-self-supervised
 * cd `scripts`
 * Check scripts in `train_fold.sh` to start the training process
 
+## Citation
+
+If H-DenseUNet is useful for your research, please consider citing:
+
+  ```shell
+@ARTICLE{9411868,
+  author={Li, Xiaomeng and Hu, Xiaowei and Qi, Xiaojuan and Yu, Lequan and Zhao, Wei and Heng, Pheng-Ann and Xing, Lei},
+  journal={IEEE Transactions on Medical Imaging}, 
+  title={Rotation-oriented Collaborative Self-supervised Learning for Retinal Disease Diagnosis}, 
+  year={2021},
+  volume={},
+  number={},
+  pages={1-1},
+  doi={10.1109/TMI.2021.3075244}}
+
+  ```
+
+
 ## Note
 * Contact: Xiaomeng Li (eexmli@ust.hk)
