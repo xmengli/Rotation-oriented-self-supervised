@@ -50,7 +50,7 @@ cd Rotation-oriented-self-supervised
 
 ## Citation
 
-If H-DenseUNet is useful for your research, please consider citing:
+If this code is useful for your research, please consider citing:
 
   ```shell
 @ARTICLE{9411868,
